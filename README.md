@@ -1,16 +1,41 @@
-# flight_ticket_booking
+# flight_ticket_booking ✈ 🎫
 
-A new Flutter project.
+An application for booking flights with a pleasant interface that works with various screens and measurements.
 
-## Getting Started
+<div align="center">
 
-This project is a starting point for a Flutter application.
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
+[![GitHub Forks](https://img.shields.io/github/forks/saadhaxxan/Car_Game_Python_Pygame.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/a7madZ3Dev/flight_ticket_ui/fork)
+[![GitHub Issues](https://img.shields.io/github/issues/saadhaxxan/Car_Game_Python_Pygame.svg?style=flat&label=Issues&maxAge=2592000)](https://github.com/a7madZ3Dev/flight_ticket_ui/issues)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
 
-A few resources to get you started if this is your first Flutter project:
+</div>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<br>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Screen Shots 
+<img alt="jpg" src="preview/view_1.jpg" width= "300" /> <img alt="jpg" src="preview/view_2.jpg" width= "300" />
+
+<img alt="jpg" src="preview/view_3.jpg" width= "300" /> <img alt="jpg" src="preview/view_4.jpg" width= "300" />
+
+## 🎥 Promo Video
+<img alt="GIF" src="preview/demo_1.gif" width= "300" /> <img alt="GIF" src="preview/demo_2.gif" width= "300" />
+
+<br>
+
+## 🔑 License
+
+- This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details
+
+## 🧑 Author
+
+#### Ahmad Alzoabi
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ahmad-alzoabi-0623a8233/)
+
+You can also follow my GitHub Profile to stay updated about my latest projects:
+
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/a7madZ3Dev)
+
+If you liked the repo then kindly support it by giving it a star ⭐!
+
+Copyright (c) 2023 Ahmad Alzoabi
