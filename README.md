@@ -1,6 +1,6 @@
 # flight_ticket_booking ✈ 🎫
 
-An application for booking flights with a pleasant interface that works with various screens and measurements.
+A UI for booking flights, working with various screens and measurements. 
 
 <div align="center">
 
