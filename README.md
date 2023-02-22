@@ -21,11 +21,10 @@ A UI for booking flights, working with various screens and measurements.
 ## 🎥 Promo Video
 <img alt="GIF" src="preview/demo_1.gif" width= "300" /> <img alt="GIF" src="preview/demo_2.gif" width= "300" />
 
+## Design update in the following link
+https://www.youtube.com/watch?v=71AsYo2q_0Y
+
 <br>
-
-## 🔑 License
-
-- This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details
 
 ## 🧑 Author
 
